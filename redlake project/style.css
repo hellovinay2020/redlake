@@ -1,0 +1,68 @@
+
+.our-business{
+    background-color: rgb(217, 214, 214);
+}
+.card:hover{
+    box-shadow: 2px 4px 9px rgb(140, 140, 140);
+    transition: 0.4s;
+}
+.out-item{
+    font-size: 11px;
+    font-family: 'Lucida Sans';
+}
+.dollor{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.our-btn{
+    background-color:#FF5F15;
+    border: none;
+    color: white;
+    height: 35px;
+}
+.our-btn:hover{
+   
+    background-color:#EC5800;
+}
+.contact span{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.iconItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+.iconItem a{
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;  
+}
+.iconItem a:hover{
+    background-color:#2fb3ff;
+    transition: 0.2s;
+   
+}
+.footer-section{
+    background-color: #527c96;
+}
+.shop-list li{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.shop-list li:hover{
+    color: yellow;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.2s;
+}
+.shop-list h3{
+    color: white;
+}
+
+.developer-details{
+    background-color: #000255;
+}
